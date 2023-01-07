@@ -15,6 +15,7 @@ public class nuevo extends javax.swing.JFrame {
      */
     public nuevo() {
         initComponents();
+        System.out.print("hola mundo");
     }
 
     /**
